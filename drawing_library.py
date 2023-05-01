@@ -33,5 +33,5 @@ pencil.left(angle)
 pencil.right(angle)
 
 
-# Necessary! Or the screen it will close instantly.
+# Necessary! Or the screen will close instantly.
 screen.exitonclick()
